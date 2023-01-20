@@ -7,3 +7,4 @@ Topic :
 4. relative and absolute permeability calculation
 5. permeality variation factor
 6. with help of psuedo-pressure , calculated flow rate in pseudo-steady state
+7. Prediction slowness
